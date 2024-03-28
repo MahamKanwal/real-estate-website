@@ -1,0 +1,209 @@
+body{
+    overflow-x: hidden !important;
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.contact{
+    border: 2px solid #BEBEBE;
+    border-radius: 40px; 
+    background: #FEFEFF;  
+}
+.p-sm-40{
+    padding: 40px;
+}
+.p-lg-20{
+    padding: 20px;
+}
+.house{
+    /* margin-left: 40px; */
+    width: 100%;
+    height: 110%;
+    /* width: 700px;
+height: 712.44px; */
+}
+.neuro h4{
+height: 19px;
+line-height: 19.2px;
+text-align: left;
+
+}
+.neuro h1{
+    
+ width: 479px;
+font-weight: 700;
+line-height: 80.4px;
+text-align: left;
+}
+.para{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+width: 435px;
+height: 48px;    
+}
+.neuro h1 , h4, .para{
+    color:black;
+
+}
+.neuro{
+    padding-top: 100px;
+}
+.real-estate{
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+     width: 100%; 
+/* height: 617px; */
+border-radius: 15px 0px 0px 0px;
+
+}
+.email>.col-lg-email{
+    border: 20px;
+     width: 300px;
+    height: 50px;
+    border-radius: 40px;
+}
+.email>button{
+width: 147px;
+height: 50px;
+border-radius: 40px;
+background-color: black;
+color: white;
+}
+.steps h3{
+    width: 218px;
+    height: 19px;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+}
+.steps h1{
+    /* width: 788px; */
+    height: 60px;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+}
+.card{
+    width: 329px !important;
+height: 225px;
+top: 50px;
+left: 66px;
+gap: 0px;
+
+}
+.card-img-top{
+    border: 3.5px;
+    width: 75px;
+height: 75px;
+
+}
+.card-title{
+    width: 254px;
+height: 34px;
+font-size: 28px;
+font-weight: 600;
+line-height: 33.6px;
+text-align: left;
+
+}
+.card-text{
+    width: 329px;
+height: 72px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.project h3{
+    padding-top: 150px;
+    width: 192px;
+height: 19px;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+
+}
+.best h1{
+    width: 495px;
+height: 60px;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+text-align: left;
+
+}
+.projet{
+    margin-top: 140px;
+}
+.house1{
+   
+    width: 447px;
+
+}
+.one .card-title{
+    width: 253px;
+/* height: 25px; */
+font-size: 21px;
+font-weight: 600;
+line-height: 25.2px;
+text-align: left;
+
+}
+.one .card-text{
+    width: 329px;
+height: 48px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.star{
+    margin-right: 250px;
+    width: 153px;
+height: 19px;
+}
+
+.one{
+    width: 447px !important;
+height: 438px;
+/* top: 1518px; */
+left: 30px;
+gap: 0px;
+border-radius: 14px 0px 0px 0px;
+border: 1px solid #BEBEBE;
+
+}
+.project{
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid red; */
+}
+.global h1{
+margin-top: 150px;
+height: 120px;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px; 
+    text-align: center;
+    
+}
+.real h1{
+font-size: 45px;
+font-weight: 600;
+/* line-height: 80.4px; */
+text-align: left;
+}
+.news{
+    margin-top: 80px;
+}
+/* body{
+    border: 2px solid red;
+} */
